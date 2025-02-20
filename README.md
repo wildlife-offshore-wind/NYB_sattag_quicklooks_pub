@@ -1,6 +1,7 @@
-# NYB_sattag_quicklooks_pub
+# NYB sattag quicklooks
 
-Public repo for hosting the quicklooks for sattags in the NYB connected to wow. Updated nearly daily when tags are active.
+Prelimary quicklooks updated nearly daily during the field season and when tags are active:
 
-live link: https://wildlife-offshore-wind.github.io/NYB_sattag_quicklooks_pub
+- [2023](2023)
+- [2024](2024)
 
